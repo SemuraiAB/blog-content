@@ -1,17 +1,12 @@
 ---
-title: Nya inlägget
-"date:\"{ date }\"": 
+title: Title
+date:
+  "{ date:YYYY-MM-DD }": 
 tags:
   - tag1
-  - banan
 draft: false
 summary: Summary of your blogpost
 ---
 
-  
-
 # {{title}}
-
-Då var det dax för ett nytt inlägg här! :D 
-
-
+Det var idag jag skrev detta
