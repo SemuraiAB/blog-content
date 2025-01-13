@@ -1,6 +1,6 @@
 ---
-name: Sparrow Hawk
-avatar: /static/images/sparrowhawk-avatar.jpg
+name: Jerry
+avatar: /static/images/Jerry.jpg
 occupation: Wizard of Earthsea
 company: Earthsea
 twitter: https://twitter.com/sparrowhawk
