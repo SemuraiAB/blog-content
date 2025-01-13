@@ -1,12 +1,10 @@
 ---
 title: Title
-date:
-  "{ date:YYYY-MM-DD }": 
 tags:
   - tag1
 draft: false
 summary: Summary of your blogpost
+date: '{{Date}}'
 ---
 
 # {{title}}
-Det var idag jag skrev detta
