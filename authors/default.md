@@ -1,6 +1,6 @@
 ---
 name: Jerry Olsson
-avatar: obsidian://open?vault=blog-content&file=assets%2Fjerry-springer.png
+avatar: 
 occupation: Fullstack Developer
 company: Semurai.se
 email: address@yoursite.com
