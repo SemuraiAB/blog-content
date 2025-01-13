@@ -1,8 +1,8 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+name: Jerry Olsson
+avatar: https://cdn.britannica.com/77/161077-050-F195E3F5/Jerry-Springer-2010.jpg
+occupation: Fullstack Developer
+company: Semurai.se
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
