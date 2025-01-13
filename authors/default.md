@@ -1,6 +1,6 @@
 ---
 name: Jerry Olsson
-avatar: https://cdn.britannica.com/77/161077-050-F195E3F5/Jerry-Springer-2010.jpg
+avatar: obsidian://open?vault=blog-content&file=assets%2Fjerry-springer.png
 occupation: Fullstack Developer
 company: Semurai.se
 email: address@yoursite.com
