@@ -7,7 +7,6 @@ description: Detta är mitt första blogginlägg skrivet i Obsidian
 ---
 ---
 
-title: 'Jerrys första blogginlägg'
 
 date: '2024-03-20'
 
