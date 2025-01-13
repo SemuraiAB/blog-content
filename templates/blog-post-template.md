@@ -7,4 +7,6 @@ draft: false
 summary: Summary of your blogpost
 ---
 
-# {{title}}
+# Title
+
+Write something here...
