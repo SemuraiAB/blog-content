@@ -1,17 +1,10 @@
 ---
-title: Mitt första blogginlägg
-date: 2024-03-20
-tags: [obsidian, blogg]
-published: true
-description: Detta är mitt första blogginlägg skrivet i Obsidian
----
----
 
 title: 'Jerrys första blogginlägg'
 
 date: '2024-03-20'
 
-tags: ['obsidian', 'blogg']
+tags: ['obsidian', 'blogg', 'Jerry']
 
 published: true
 
