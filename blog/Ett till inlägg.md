@@ -9,6 +9,6 @@ draft: false
 summary: detta är ännu ett till inlägg...
 ---
 
-# Ett tillläggg
+# Ett tilllägg
 
 här vare ett till inlägg! 
