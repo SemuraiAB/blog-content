@@ -1,0 +1,27 @@
+name: Trigger Blog Rebuild
+
+on:
+  push:
+    branches:
+      - main    # Körs endast när ändringar pushas till main-branchen
+    paths:
+      - '**.md'    # Triggar endast för markdown-filer
+      - '**.mdx'   # Och MDX-filer
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger blog rebuild
+        run: |
+
+          curl -X POST \ 
+            # Autentiserar med din PAT (Personal Access Token)
+          -H "Authorization: Bearer ${{ secrets.BLOG_DEPLOY_TOKEN }}" \ 
+            # Specificerar API-version
+          -H "Accept: application/vnd.github.v3+json" \
+            # URL:en ska peka på ditt huvudblogg-repo, INTE blog-content
+            # Format: api.github.com/repos/{OWNER}/{REPO}/dispatches
+          https://api.github.com/repos/JerrySem/Semurai-dev-blog/dispatches \
+            # Event-typen som din huvudblogg kommer att lyssna efter
+          -d '{"event_type": "blog_content_update"}'
