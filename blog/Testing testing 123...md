@@ -1,5 +1,5 @@
 ---
-title: Title
+title: "Exit code: 128 github-actions-bot[permission denied]"
 date: 2025-01-15
 tags:
   - tag1
@@ -7,6 +7,6 @@ draft: false
 summary: Summary of your blogpost
 ---
 
-# Cool new headline
+# Wow very cool? cool! new headline
 
-Write something here...
+It works!
