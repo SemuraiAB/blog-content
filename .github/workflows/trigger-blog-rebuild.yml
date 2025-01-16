@@ -18,4 +18,4 @@ jobs:
           -H "Authorization: Bearer ${{ secrets.BLOG_DEPLOY_TOKEN }}" \
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/SemuraiAB/semurai-dev-blog/dispatches \
-          -d '{"event_type": "blog_content_update"}'
+          -d '{"event_type": "blog_content_update", "client_payload": {"user_name": "${{ github.actor }}", "user_email": "${{ github.event.pusher.email }}"} }'
