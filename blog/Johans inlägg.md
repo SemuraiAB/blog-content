@@ -7,8 +7,6 @@ tags:
   - tillägg
 draft: false
 summary: Jag heter Johan
-authors:
-  - Johan
 ---
 
 # {{title}}
