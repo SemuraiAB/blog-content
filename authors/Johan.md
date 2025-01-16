@@ -1,12 +1,10 @@
 ---
 name: Johan Söderlund
-avatar: 
-occupation: 
+avatar: /static/images/fox.jpg
+occupation: Fullstack Developer
 company: Semurai.se
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+email: johan@semurai.se
+twitter: 
+linkedin:
 ---
-
-Hello, Det är jag som är Johan. hure läget?
+Foxes are incredibly adaptable animals found across various habitats, from forests to urban areas, and they communicate using over 40 vocalizations. They exhibit cat-like traits such as vertical pupils and climbing abilities, while species like the Arctic fox can even change fur color with the seasons.
