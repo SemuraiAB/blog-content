@@ -1,10 +1,15 @@
 ---
 title: Images in Next.js
-date: '2020-11-11'
-tags: ['next js', 'guide']
+date: 2025-01-16
+tags:
+  - next
+  - js
+  - guide
 draft: false
-summary: 'In this article we introduce adding images in the tailwind starter blog and the benefits and limitations of the next/image component.'
-authors: ['sparrowhawk']
+summary: In this article we introduce adding images in the tailwind starter blog and the benefits and limitations of the next/image component.
+authors:
+  - sparrowhawk
+  - Jerry
 ---
 
 # Introduction
