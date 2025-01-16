@@ -1,12 +1,13 @@
 ---
-title: Tutorial Chrome Plugin for Checking Consent Mode v2 Implementation
+title: Tutorial: Chrome Plugin for Checking Consent Mode v2 Implementation
 date: 2025-01-16
 tags:
+  - Tutorial
   - Cookies
   - Consent
   - Tracking
   - Chrome
-  - Chrome plugin
+  - Chrome Plugin
 draft: false
 summary: Build a Chrome plugin for Checking Consent Mode implementation!
 authors:
