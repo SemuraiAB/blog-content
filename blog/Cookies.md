@@ -16,7 +16,7 @@ authors:
 
 Cookies are small pieces of data stored in your browser, designed to enhance user experience, track behavior, and enable key website functionalities. Despite their simplicity, cookies have evolved significantly since their inception, shaping modern web technologies and raising critical privacy concerns.
 
->[!info] This is a part of the Series:
+>[!NOTE] This is a part of the Series:
 > "Understanding cookies, consent, and future-proofing your tracking"
 ## History
 
@@ -74,7 +74,7 @@ Will cookies survive? Likely, first-party cookies will remain for core functiona
 - **2026 and beyond**: Adoption of new privacy-focused solutions like Federated Learning of Cohorts (FLoC) or Topics API.
     
 
->[!warning]- Needs update, needs sources
+>[!WARNING]- Needs update, needs sources
 > This section needs an updated timeline from the Google Dev blog
 
 ## TL;DR

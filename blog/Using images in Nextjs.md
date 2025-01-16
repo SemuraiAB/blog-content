@@ -64,6 +64,7 @@ on [Unsplash](https://unsplash.com/s/photos/sea?utm_source=unsplash&utm_medium=r
 - Avoids [Cumulative Layout Shift](https://web.dev/cls/)
 - Optimization on demand instead of build-time - no increase in build time!
 
+
 # Limitations
 
 - Due to the reliance on `next/image`, unless you are using an external image CDN like Cloudinary or Imgix, it is practically required to use Vercel for hosting. This is because the component acts like a serverless function that calls a highly optimized image CDN.
