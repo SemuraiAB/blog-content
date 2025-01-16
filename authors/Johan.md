@@ -1,6 +1,6 @@
 ---
 name: Johan Söderlund
-avatar: /static/images/fox.png
+avatar: /static/images/fox.jpg
 occupation: Fullstack Developer
 company: Semurai.se
 email: johan@semurai.se

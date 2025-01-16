@@ -1,6 +1,6 @@
 ---
 name: Jerry Olsson
-avatar: /static/images/monkey.png
+avatar: /static/images/monkey.jpg
 occupation: Fullstack Developer
 company: Semurai.se
 twitter: https://twitter.com/sparrowhawk
