@@ -1,6 +1,6 @@
 ---
 name: Jerry Olsson
-avatar: 
+avatar: /static/images/sparrowhawk-avatar.jpg
 occupation: Fullstack Developer
 company: Semurai.se
 email: jerry@semurai.se
