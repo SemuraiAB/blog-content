@@ -1,6 +1,6 @@
 ---
 name: Konrad Persson
-avatar: /static/images/sparrowhawk-avatar.jpg
+avatar: /static/images/dragon.png
 occupation: I'm CEO bitch!
 company: Semurai.se
 twitter: 
