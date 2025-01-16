@@ -3,14 +3,10 @@ name: Jerry Olsson
 avatar: /static/images/sparrowhawk-avatar.jpg
 occupation: Fullstack Developer
 company: Semurai.se
-email: jerry@semurai.se
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com/in/jerry-olsson-0b1a4228b/
-github: https://github.com/jerrysemurai
+twitter: https://twitter.com/sparrowhawk
+linkedin: https://www.linkedin.com/sparrowhawk
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+At birth, Ged was given the child-name Duny by his mother. He was born on the island of Gont, as a son of a bronzesmith. His mother died before he reached the age of one. As a small boy, Ged had overheard the village witch, his maternal aunt, using various words of power to call goats. Ged later used the words without an understanding of their meanings, to surprising effect.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The witch knew that using words of power effectively without understanding them required innate power, so she endeavored to teach him what little she knew. After learning more from her, he was able to call animals to him. Particularly, he was seen in the company of wild sparrowhawks so often that his "use name" became Sparrowhawk.

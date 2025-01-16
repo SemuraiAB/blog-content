@@ -6,8 +6,7 @@ tags:
   - jerry
 draft: false
 summary: Jag heter Jerry
-authors:
-  - Jerry
+authors: []
 ---
 
 # Jerrys inlägg
