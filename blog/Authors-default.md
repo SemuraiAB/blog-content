@@ -1,7 +1,6 @@
 ---
 title: Authors-default
-date:
-  "{ date:YYYY-MM-DD }": 
+date: 2025-01-15
 tags:
   - tag
 draft: false
