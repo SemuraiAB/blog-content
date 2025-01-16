@@ -1,12 +1,12 @@
 ---
-title: This is the title (mandatory?)
+title: Cookies
 date: 2025-01-16
 tags:
-  - template
-  - internal
-  - rtfm
+  - Cookies
+  - Consent
+  - Tracking
 draft: false
-summary: This is the summary (mandatory?)
+summary: Cookies are small pieces of data stored in your browser, designed to enhance user experience, track behavior, and enable key website functionalities.
 authors:
   - Konrad
 ---
