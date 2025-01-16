@@ -8,6 +8,6 @@ draft: false
 summary: Jag heter Jerry
 ---
 
-# {{title}}
+# Jerrys inlägg
 
 Ja men hej. Det är jag som är Jerry
